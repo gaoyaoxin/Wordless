@@ -40,8 +40,8 @@ GB (GB/T 7714—2015):
 ## Download
 Wordless currently support **Windows Vista/7/8/10** and **macOS 10.6+**, **64-bit only**.
 
-[Download the latest version for Windows](https://github.com/BLKSerene/Wordless/releases/download/v1.0.0/wordless_v1.0.0_windows.zip)<br>
-[Download the latest version for macOS](https://github.com/BLKSerene/Wordless/releases/download/v1.0.0/wordless_v1.0.0_macos.zip)
+[Download the latest version for Windows](https://github.com/BLKSerene/Wordless/releases/download/v1.0.0/wordless_v1.0.0_windows.zip) (unzip the file and click **Wordless/Wordless.exe** to run)<br>
+[Download the latest version for macOS](https://github.com/BLKSerene/Wordless/releases/download/v1.0.0/wordless_v1.0.0_macos.zip) (unzip the file and click **Wordless.app** to run)
 
 Chinese users with slow connections to Github can [download from Baidu Netdisk](https://pan.baidu.com/s/1utWAFOkkwQVxqedtGr-2QQ) (**password**: 03el).
 
